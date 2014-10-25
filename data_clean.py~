@@ -30,7 +30,7 @@ for user in temp:
 	ff.write('\n')
 	i=i+1
 
-ff.close()
+
 
 f=open('anonlist.tsv','a')
 
